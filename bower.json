@@ -1,0 +1,17 @@
+{
+    "name": "autourone-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Sorkin Type"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/autourone-bower.git"
+    },
+    "description": "Autour One font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
